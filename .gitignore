@@ -1,0 +1,15 @@
+node_modules
+.expo
+.expo-shared
+dist
+build
+.env
+.env.local
+*.apk
+*.ipa
+.DS_Store
+*.jks
+*.keystore
+.idea
+.vscode
+*.log
